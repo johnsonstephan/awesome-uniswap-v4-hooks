@@ -1,3 +1,9 @@
+# :warning: Project has migrated :warning:
+
+This project has been migrated [here](https://github.com/hyperoracle/awesome-uniswap-hooks).
+
+We are happy to review and accept contributions by the community,
+
 <center>
 
 # Awesome Uniswap v4 Hooks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -17,6 +23,7 @@ The best ways to use are:
 
 ## 📑 Table of Contents
 
+- [:warning: Project has migrated :warning:](#warning-project-has-migrated-warning)
 - [Awesome Uniswap v4 Hooks ](#awesome-uniswap-v4-hooks-)
   - [🔍 How to Use](#-how-to-use)
   - [📑 Table of Contents](#-table-of-contents)
