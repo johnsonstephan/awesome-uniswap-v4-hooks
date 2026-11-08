@@ -121,6 +121,8 @@ _A collection of hook contracts from Uniswap and community developers._
 - [NFT Owners Only](https://github.com/wagmiwiz/nft-owners-only-uniswap-hook): Disallows a swap if sender doesn't own an ERC721 NFT. This can be used to prevent people from selling tokens that they don't own.
 - [Curve Style Voting Escrow - veLP](https://github.com/kadenzipfel/veLP): A Curve-style voting escrow (ve) hook. This can be used to create a more democratic and efficient way to vote on changes to a liquidity pool.
 - [Huff Hooks](https://github.com/jtriley-eth/huff-hooks): Allows developers to add custom functionality to pools. This can be used to create a variety of new features, such as limit orders or margin trading.
+- [Spraay BatchDistributeHook](https://github.com/plagtech/spraay-uniswap-v4-hook): Push-model batch token and ETH distribution via Uniswap V4 hooks. Distributes to up to 200 recipients in a single transaction. Listed in the official Uniswap hooklist. Deployed on Base at `0x2aB86A34661C0629C62A0f1980c96D41Ea471010`.
+- [SwapAndSpray](https://github.com/plagtech/spraay-swap-and-spray): An `afterSwap` return-delta hook that pays a swap's output to up to 200 recipients in one transaction via Spraay, on pools that attach it. Deployed on Base at `0xD5a632a1F24231847f3C0Be6ADEcf209c1830044`.
 
 ## 🛠 Tools
 
